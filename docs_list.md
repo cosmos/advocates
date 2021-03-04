@@ -28,7 +28,6 @@ A working list of docs with links to the published documentation, the repo or re
 
 - <https://github.com/cosmos/cosmos-sdk/tree/master/docs>
 
-- <https://github.com/cosmos/cosmos-sdk/tree/master/docs> <!-- two repos, what is the difference? -->
 
 - Learn about open source Cosmos SDK framework.
 
