@@ -4,11 +4,11 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos Hub
 
-- [Cosmos Hub](https://hub.cosmos.network/main/hub-overview/overview.html)
+- [hub.cosmos.network](https://hub.cosmos.network/main/hub-overview/overview.html)
 
 - <https://github.com/cosmos/gaia/tree/master/docs>
 
-- Using the Cosmos SDK application for the Cosmos Hub.
+- Using the Cosmos SDK application for the Cosmos Hub, called Gaia.
 
   <details><summary>Top-level contents</summary>
 
@@ -24,9 +24,9 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos SDK Documentation
 
-- [Cosmos SDK Documentation](https://docs.cosmos.network/) _why 2 repos?_
+- [docs.cosmos.network](https://docs.cosmos.network/)
 
-- <https://github.com/allinbits/cosmos-sdk/tree/master/docs>
+- <https://github.com/cosmos/cosmos-sdk/tree/master/docs>
 
 - <https://github.com/cosmos/cosmos-sdk/tree/master/docs> <!-- two repos, what is the difference? -->
 
@@ -58,7 +58,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos SDK Tutorials
 
-- [Cosmos SDK Tutorials](https://tutorials.cosmos.network/)
+- [tutorials.cosmos.network](https://tutorials.cosmos.network/)
 
 - <https://github.com/cosmos/sdk-tutorials>
 
@@ -86,7 +86,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Starport
 
-- [Tendermint Starport](https://github.com/tendermint/starport/tree/develop/docs)
+- [github.com/tendermint/starport](https://github.com/tendermint/starport/tree/develop/docs)
 
 - <https://github.com/tendermint/starport>
 
@@ -114,7 +114,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Tendermint Core
 
-- [Tendermint Core](https://docs.tendermint.com/master/)
+- [docs.tendermint.com](https://docs.tendermint.com/master/)
 
 - <https://github.com/tendermint/tendermint/tree/master/docs>
 
