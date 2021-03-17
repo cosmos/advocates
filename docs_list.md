@@ -58,7 +58,25 @@ A working list of docs with links to the published documentation, the repo or re
 
     </details>
 
-  - [Cosmos SDK API docs](gRPC, REST, and Tendermint Endpoints) also in this repo
+## Cosmos SDK API Legacy REST and gRPC Gateway docs
+
+- Maintainers:
+
+- Tobias EcoDev verify base URL and supported versions 2x/year
+
+- <https://github.com/cosmos/cosmos-sdk/blob/master/docs/core/grpc_rest.md>
+
+- API docs for:
+
+  - Gaia REST
+
+  - Tendermint RPC
+
+  - Transactions
+
+  - Cosmos Queries
+
+  - and others
 
 ## Cosmos SDK Tutorials
 
@@ -68,19 +86,25 @@ A working list of docs with links to the published documentation, the repo or re
 
 - <https://github.com/cosmos/sdk-tutorials>
 
-- Tutorials for building modules for the Cosmos SDK. Links to videos.
+- Tutorials for building modules for the Cosmos SDK. Links to articles and videos.
 
-  <details><summary>Top-level contents WIP</summary>
+  <details><summary>Top-level contents</summary>
+
+    Stargate:
+
+    - IBC Hello World
+
+    - Blog for Starport
+
+    - Proof of File Existence Migration
+
+    Launchpad:
 
     - Voter
 
     - Blog
 
-    - Blog (legacy)
-
     - PoFE
-
-    - PoFE - Launchpad to Stargate
 
     - Scavenge
 
@@ -92,7 +116,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Starport docs
 
-- Maintainers: EcoDev Tobias/Barrie and DevX Denis
+- Maintainers: AIB EcoDev Barrie and DevX Denis
 
 - [github.com/tendermint/starport](https://github.com/tendermint/starport/tree/develop/docs)
 
@@ -104,17 +128,15 @@ A working list of docs with links to the published documentation, the repo or re
 
   <details><summary>Top-level contents WIP</summary>
 
-  - Introduction
+  - Introduction to Starport
 
-  - Install
+  - Run a Blockchain
 
-  - Quickstart
+  - Project Scaffold Reference
 
-  - Serving a blockchain
+  - Type Scaffold Reference
 
-  - Scaffolding
-
-  - Configuration
+  - Configure a Blockchain
 
   - Relayer
 
@@ -122,13 +144,13 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Tendermint Core
 
-- Maintainer: Tess GmbH
+- Maintainer: Interchain GmbH Tess
 
 - [docs.tendermint.com](https://docs.tendermint.com/master/)
 
 - <https://github.com/tendermint/tendermint/tree/master/docs>
 
-- Blockchain application platform, BFT state machine replication.
+- BFT Consensus Engine used by the Cosmos SDK and other blockchain applications.
 
   <details><summary>Top-level contents</summary>
 
@@ -148,6 +170,40 @@ A working list of docs with links to the published documentation, the repo or re
 
   - Spec
 
-  - security
+  - Security
 
   </details>
+
+## CosmJS documentation
+
+- Maintainer: Simon at Confio
+
+- <https://cosmos.github.io/cosmjs/>
+
+- Front end to build first app, missing examples
+
+## Relayers command list
+
+- Maintainer:
+
+- <https://github.com/cosmos/relayer/blob/master/docs/commands.md>
+
+- App that relays data between IBC-enabled chains.
+
+## Other community docs
+
+We won't track these other docs.
+
+- [Agoric](https://agoric.com/documentation/)
+
+- [Cosmos IBC Account Documentation](https://chainapsis.github.io/cosmos-sdk-interchain-account/)
+
+- [CosmWasm Documentation](https://docs.cosmwasm.com/)
+
+- [Ethermint Documentation](https://docs.ethermint.zone/)
+
+- [Haskell Cosmos SDK](http://kepler.dev/)
+
+- [Hermes Guide](https://hermes.informal.systems/)
+
+- [Lotion](https://lotionjs.com/introduction.html) unmaintained
