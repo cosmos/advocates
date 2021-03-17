@@ -4,6 +4,8 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos Hub
 
+- Maintainer: design team
+
 - [hub.cosmos.network](https://hub.cosmos.network/main/hub-overview/overview.html)
 
 - <https://github.com/cosmos/gaia/tree/master/docs>
@@ -24,10 +26,11 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos SDK Documentation
 
+- Maintainer: REGEN and Tendermint Inc
+
 - [docs.cosmos.network](https://docs.cosmos.network/)
 
 - <https://github.com/cosmos/cosmos-sdk/tree/master/docs>
-
 
 - Learn about open source Cosmos SDK framework.
 
@@ -55,7 +58,11 @@ A working list of docs with links to the published documentation, the repo or re
 
     </details>
 
+  - [Cosmos SDK API docs](gRPC, REST, and Tendermint Endpoints) also in this repo
+
 ## Cosmos SDK Tutorials
+
+- Maintainers: Tendermint AIB EcoDev Tobias
 
 - [tutorials.cosmos.network](https://tutorials.cosmos.network/)
 
@@ -63,7 +70,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 - Tutorials for building modules for the Cosmos SDK. Links to videos.
 
-  <details><summary>Top-level contents</summary>
+  <details><summary>Top-level contents WIP</summary>
 
     - Voter
 
@@ -83,7 +90,9 @@ A working list of docs with links to the published documentation, the repo or re
 
   </details>
 
-## Starport
+## Starport docs
+
+- Maintainers: EcoDev Tobias/Barrie and DevX Denis
 
 - [github.com/tendermint/starport](https://github.com/tendermint/starport/tree/develop/docs)
 
@@ -93,7 +102,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 - Note: View the docs only in the repo or the [gitpod workspace](https://gitpod.io/#https://github.com/tendermint/starport/tree/master).
 
-  <details><summary>Top-level contents</summary>
+  <details><summary>Top-level contents WIP</summary>
 
   - Introduction
 
@@ -112,6 +121,8 @@ A working list of docs with links to the published documentation, the repo or re
   </details>
 
 ## Tendermint Core
+
+- Maintainer: Tess GmbH
 
 - [docs.tendermint.com](https://docs.tendermint.com/master/)
 
