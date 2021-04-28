@@ -120,6 +120,8 @@ A working list of docs with links to the published documentation, the repo or re
 
 - [github.com/tendermint/starport](https://github.com/tendermint/starport/tree/develop/docs)
 
+- [docs.starport.network](https://docs.starport.network)
+
 - <https://github.com/tendermint/starport>
 
 - Tool to bootstrap blockchains. Developer-friendly, easiest way to build a blockchain.
