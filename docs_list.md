@@ -4,7 +4,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos Hub
 
-- Maintainer: design team
+- Maintainer: Tendermint AIB design team
 
 - [hub.cosmos.network](https://hub.cosmos.network/main/hub-overview/overview.html)
 
@@ -12,55 +12,21 @@ A working list of docs with links to the published documentation, the repo or re
 
 - Using the Cosmos SDK application for the Cosmos Hub, called Gaia.
 
-  <details><summary>Top-level contents</summary>
-
-  - Cosmos Hub
-
-  - Delegators
-
-  - Gaia Tutorials
-
-  - Validators
-
-  </details>
 
 ## Cosmos SDK Documentation
 
-- Maintainer: REGEN and Tendermint Inc
+- Maintainer: Interchain GmbH along with REGEN and Tendermint AIB
 
 - [docs.cosmos.network](https://docs.cosmos.network/)
 
 - <https://github.com/cosmos/cosmos-sdk/tree/master/docs>
 
-- Learn about open source Cosmos SDK framework.
+- Learn about open source Cosmos SDK framework for building high-value public blockchains.
 
-  <details><summary>Top-level contents</summary>
-
-    - Introduction
-
-    - Basics
-
-    - Core Concepts
-
-    - Building Modules
-
-    - IBC
-
-    - Running a Node, API and CLI
-
-    - Migrations
-
-    - USING THE SDK
-
-      - Modules
-
-        - List of Modules
-
-    </details>
 
 ## Cosmos SDK API Legacy REST and gRPC Gateway docs
 
-- Maintainers:
+- Maintainers: Interchain GmbH
 
 - Tobias EcoDev verify base URL and supported versions 2x/year
 
@@ -80,7 +46,7 @@ A working list of docs with links to the published documentation, the repo or re
 
 ## Cosmos SDK Tutorials
 
-- Maintainers: Tendermint AIB EcoDev Tobias
+- Maintainers: Starport-based Tutorials, Tendermint AIB EcoDev Tobias
 
 - [tutorials.cosmos.network](https://tutorials.cosmos.network/)
 
@@ -88,35 +54,9 @@ A working list of docs with links to the published documentation, the repo or re
 
 - Tutorials for building modules for the Cosmos SDK. Links to articles and videos.
 
-  <details><summary>Top-level contents</summary>
-
-    Stargate:
-
-    - IBC Hello World
-
-    - Blog for Starport
-
-    - Proof of File Existence Migration
-
-    Launchpad:
-
-    - Voter
-
-    - Blog
-
-    - PoFE
-
-    - Scavenge
-
-    - Nameservice
-
-    - Cosmos Burner Chain
-
-  </details>
-
 ## Starport docs
 
-- Maintainers: AIB EcoDev Barrie and DevX Denis
+- Maintainers: Tendermint AIB DevX
 
 - [github.com/tendermint/starport](https://github.com/tendermint/starport/tree/develop/docs)
 
@@ -124,23 +64,6 @@ A working list of docs with links to the published documentation, the repo or re
 
 - Tool to bootstrap blockchains. Developer-friendly, easiest way to build a blockchain.
 
-- Note: View the docs only in the repo or the [gitpod workspace](https://gitpod.io/#https://github.com/tendermint/starport/tree/master).
-
-  <details><summary>Top-level contents WIP</summary>
-
-  - Introduction to Starport
-
-  - Run a Blockchain
-
-  - Project Scaffold Reference
-
-  - Type Scaffold Reference
-
-  - Configure a Blockchain
-
-  - Relayer
-
-  </details>
 
 ## Tendermint Core
 
@@ -151,28 +74,6 @@ A working list of docs with links to the published documentation, the repo or re
 - <https://github.com/tendermint/tendermint/tree/master/docs>
 
 - BFT Consensus Engine used by the Cosmos SDK and other blockchain applications.
-
-  <details><summary>Top-level contents</summary>
-
-  - Introduction
-
-  - Guides
-
-  - Apps
-
-  - Nodes
-
-  - Tendermint Core
-
-  - Networks
-
-  - Tooling
-
-  - Spec
-
-  - Security
-
-  </details>
 
 ## CosmJS documentation
 
